@@ -35,7 +35,7 @@ recopilación de datos, el análisis de resultados y la interactuación con el u
     
 - <p align="justify">Manual Monitor Invernadero Base Shield V2 Con Sensores De Grove.pdf, Informe que documenta adecuadamente el proyecto y sus resultados. Estructura mínima habitual de objetivos, resolución metodología, definición y análisis del proyecto, análisis crítico y representación de resultados obtenidos, documentación y referencias.</p>
     
-- <p align="justify"> [Presentación](https://youtu.be/J7LJK8ByvNM). Uso de un demostrador in-situ, grabación de un video para verificar el funcionamiento de la aplicación desarrollada, acciones remotas, etc.</p>
+- <p align="justify"> <A HREF="https://youtu.be/J7LJK8ByvNM"> Presentación</A>. Uso de un demostrador in-situ, grabación de un video para verificar el funcionamiento de la aplicación desarrollada, acciones remotas, etc.</p>
     
  ## Referencias
 * [Grove water_sensor](https://www.seeedstudio.com/Grove-Water-Sensor.html) 
