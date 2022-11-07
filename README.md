@@ -16,15 +16,6 @@
 - Miniproyecto_PLN_final.ipynb, donde podremos encontrar la segunda parte del proyecto, donde se aplican los preprocesados, clasificadores y resultados del proyecto.
 
 - Carpeta "html" que contiene las dos partes del proyecto en formato html.
-
-## 👫👭 Equipazo:
-
-<img src="https://user-images.githubusercontent.com/98991004/200303069-0b484d2e-7935-48ac-b9b0-ba2135e4a0d7.png" align="right" width="200" height="150">
-
-Este proyecto ha sido realizado por: 
-
-- Irina Filimonova Sevcenco
-- Elena Marrero Castellano
     
  ## Referencias
 * [Grove water_sensor](https://www.seeedstudio.com/Grove-Water-Sensor.html) 
@@ -38,6 +29,14 @@ Este proyecto ha sido realizado por:
 * 16 Enero 2022
     + Initial version
 
+## 👫👭 Equipazo:
+
+<img src="https://user-images.githubusercontent.com/98991004/200303069-0b484d2e-7935-48ac-b9b0-ba2135e4a0d7.png" align="right" width="200" height="150">
+
+Este proyecto ha sido realizado por: 
+
+- Irina Filimonova Sevcenco
+- Elena Marrero Castellano
 
 ## 📄 Licencia 
 
