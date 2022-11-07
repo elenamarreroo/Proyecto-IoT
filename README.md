@@ -2,9 +2,7 @@
 
 <p align="justify">Este notebook utiliza sensores de Grove que miden la temperatura, el nivel de humedad y la luminosidad para crear un invernadero monitorizado para controlar que las plantas tengan las mejores condiciones para vivir. Las condiciones son monitoreadas en el stick LED de Grove y el zumbador de Grove. Se genera una alerta si las condiciones valoradas en conjunto no son las adecuadas. También notifica mediante un correo electrónico si una planta está enferma o tiene una plaga.</p>
 
-A continuación se muestra un video explicativo del proyecto: <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-
-- https://youtu.be/J7LJK8ByvNM
+A continuación se muestra un video explicativo del proyecto:        <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="gcp" width="40" height="40"/> </a>
 
 
 ## 💪🏽 Objetivos:
@@ -37,7 +35,7 @@ recopilación de datos, el análisis de resultados y la interactuación con el u
     
 - <p align="justify"> <A HREF="https://youtu.be/J7LJK8ByvNM"> Presentación</A>. Uso de un demostrador in-situ, grabación de un video para verificar el funcionamiento de la aplicación desarrollada, acciones remotas, etc.</p>
     
- ## Referencias
+ ## 📖 Referencias
 * [Grove water_sensor](https://www.seeedstudio.com/Grove-Water-Sensor.html) 
 * [Grove temperature](https://www.seeedstudio.com/Grove-Temperature-Sensor.html) 
 * [Grove light_sensor](https://www.seeedstudio.com/Grove-Light-Sensor-v1-2-LS06-S-phototransistor.html) 
@@ -45,7 +43,7 @@ recopilación de datos, el análisis de resultados y la interactuación con el u
 * [Grove servo](https://www.seeedstudio.com/Grove-Servo-Sensor.html) 
 * [Grove Base Shield V2.0](https://www.seeedstudio.com/Base-Shield-V2.html)   
 
-## Última vez que fue revisado
+## 🔍 Última vez que fue revisado
 * 16 Enero 2022
     + Initial version
 
