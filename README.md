@@ -2,8 +2,7 @@
 
 <p align="justify">Este notebook utiliza sensores de Grove que miden la temperatura, el nivel de humedad y la luminosidad para crear un invernadero monitorizado para controlar que las plantas tengan las mejores condiciones para vivir. Las condiciones son monitoreadas en el stick LED de Grove y el zumbador de Grove. Se genera una alerta si las condiciones valoradas en conjunto no son las adecuadas. También notifica mediante un correo electrónico si una planta está enferma o tiene una plaga.</p>
 
-A continuación se muestra un video explicativo del proyecto: &nbsp; &nbsp; <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="gcp" width="40" height="40"/> </a>
-
+A continuación se muestra un video explicativo del proyecto: &nbsp; &nbsp; <a href="https://drive.google.com/file/d/1yOyLGcmgdzOI8c3AalYxPiZ4govED0hD/view?usp=share_link" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="gcp" width="40" height="40"/> </a>
 
 ## 💪🏽 Objetivos:
 
