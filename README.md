@@ -59,4 +59,4 @@ Este proyecto ha sido realizado por:
 
 ## 📄 Licencia 
 
-<p align="justify"> [Presentación](LICENSE.md). Uso de un demostrador in-situ, grabación de un video para verificar el funcionamiento de la aplicación desarrollada, acciones remotas, etc.</p>
+Este repositorio está bajo la Licencia (GNU General Public License v3.0) - mira el archivo [LICENSE.md](LICENSE.md) para detalles.
