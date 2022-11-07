@@ -32,7 +32,11 @@ recopilación de datos, el análisis de resultados y la interactuación con el u
 - <p align="justify">notebook_plant_monitoring_system.ipynb, proyecto/cuaderno central completo.</p>
     
 - <p align="justify">Manual Monitor Invernadero Base Shield V2 Con Sensores De Grove.pdf, Informe que documenta adecuadamente el proyecto y sus resultados. Estructura mínima habitual de objetivos, resolución metodología, definición y análisis del proyecto, análisis crítico y representación de resultados obtenidos, documentación y referencias.</p>
-    
+ 
+- Carpeta "fotos" donde podemos encontrar las imagenes utilizadas para la detección de enfermedades.
+
+Además se adjunta también en este README el video explicativo del proyecto comentado anteriormente:
+
 - <p align="justify"> <A HREF="https://youtu.be/J7LJK8ByvNM"> Presentación</A>. Uso de un demostrador in-situ, grabación de un video para verificar el funcionamiento de la aplicación desarrollada, acciones remotas, etc.</p>
     
  ## 📖 Referencias
