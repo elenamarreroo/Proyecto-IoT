@@ -51,7 +51,7 @@ recopilación de datos, el análisis de resultados y la interactuación con el u
 * 16 Enero 2022
     + Initial version
 
-## 👫👭 Equipazo:
+## 👭 Equipazo:
 
 <img src="https://user-images.githubusercontent.com/98991004/200303069-0b484d2e-7935-48ac-b9b0-ba2135e4a0d7.png" align="right" width="200" height="150">
 
