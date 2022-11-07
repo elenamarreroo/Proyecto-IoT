@@ -1,36 +1,36 @@
 # 🏅 Proyecto PLN
 
-<p align="justify">Este notebook utiliza sensores de Grove que miden la temperatura, el nivel de humedad y la luminosidad para crear un invernadero monitorizado para controlar que las plantas tengan las mejores condiciones para vivir. Las condiciones son monitoreadas en el stick LED de Grove y el zumbador de Grove. Se genera una alerta si las condiciones valoradas en conjunto no son las adecuadas. También notifica mediante un correo electrónico si una planta está enferma o tiene una plaga. </p>
+<p align="justify">Este notebook utiliza sensores de Grove que miden la temperatura, el nivel de humedad y la luminosidad para crear un invernadero monitorizado para controlar que las plantas tengan las mejores condiciones para vivir. Las condiciones son monitoreadas en el stick LED de Grove y el zumbador de Grove. Se genera una alerta si las condiciones valoradas en conjunto no son las adecuadas. También notifica mediante un correo electrónico si una planta está enferma o tiene una plaga.</p>
 
 ## 💪🏽 Objetivos:
 
-Realizar una aplicación IoT completa basada en el hardware PYNQ-Z2 utilizado durante la desarrollo del tema.
+<p align="justify">Realizar una aplicación IoT completa basada en el hardware PYNQ-Z2 utilizado durante la desarrollo del tema.</p>
 
-Este proyecto final conllevará la aplicación de los conocimientos como son la gestión de sensores, actuadores y displays, la
-recopilación de datos, el análisis de resultados y la interactuación con el usuario entre otras. El trabajo debe dar como resultado una aplicación que interactúe con/para/con los usuarios en cada contexto.
+<p align="justify">Este proyecto final conllevará la aplicación de los conocimientos como son la gestión de sensores, actuadores y displays, la
+recopilación de datos, el análisis de resultados y la interactuación con el usuario entre otras. El trabajo debe dar como resultado una aplicación que interactúe con/para/con los usuarios en cada contexto.</p>
 
-Los objetivos mínimos esperables son:
+<p align="justify">Los objetivos mínimos esperables son:</p>
 
-- Gestión y uso de mínimo 2 sensores/actuadores digitales y analógicos.
-- Uso de interruptores y/o switches de la placa base.
-- Gestión de funcionalidades y estructuración de estas mediante las librerías adecuadas (matplotlib, arduinoseedstudio, numpy, cv2, haar, opencv, ...).
-- Creación de un “notebook” central.
-- Recogida, análisis y representación de resultados.
-- Interacción con la aplicación de forma remota (uso de mqtt, suscripción y publicación
-en topics, etc.).
-- Documentación de todo el proyecto.
-- Demostrable para su presentación y defensa en la fecha de examen.
+- <p align="justify">Gestión y uso de mínimo 2 sensores/actuadores digitales y analógicos.</p>
+- <p align="justify">Uso de interruptores y/o switches de la placa base.</p>
+- <p align="justify">Gestión de funcionalidades y estructuración de estas mediante las librerías adecuadas (matplotlib, arduinoseedstudio, numpy, cv2, haar, opencv, ...).</p>
+- <p align="justify">Creación de un “notebook” central.</p>
+- <p align="justify">Recogida, análisis y representación de resultados.</p>
+- <p align="justify">Interacción con la aplicación de forma remota (uso de mqtt, suscripción y publicación en topics, etc.).</p>
+- <p align="justify">Documentación de todo el proyecto.</p>
+- <p align="justify">Demostrable para su presentación y defensa en la fecha de examen.</p>
 
 ## 🗂 Orden de los documentos
 
-<p align="justify">Cada uno de los documentos necesarios para la realización del proyecto se encuentran en la parte superior del repositorio. En estas encontraremos 5 archivos:
+<p align="justify">Cada uno de los documentos necesarios para la realización del proyecto se encuentran en la parte superior del repositorio. En estas encontraremos 5 archivos:</p>
 
-- README.md con la información necesaria.
+- <p align="justify">README.md con la información necesaria.</p>
 
-- proyecto/cuaderno central completo 
-- Informe que documente adecuadamente el proyecto y sus resultados. Estructura mínima habitual de objetivos, resolución metodología, definición y análisis del proyecto, análisis crítico y representación de resultados obtenidos, documentación y referencias.
+- <p align="justify">proyecto/cuaderno central completo .</p>
     
-- Presentación y defensa. Uso de un demostrador in-situ, grabación de un video para verificar el funcionamiento de la aplicación desarrollada, acciones remotas, etc.
+- <p align="justify">Informe que documente adecuadamente el proyecto y sus resultados. Estructura mínima habitual de objetivos, resolución metodología, definición y análisis del proyecto, análisis crítico y representación de resultados obtenidos, documentación y referencias.</p>
+    
+- <p align="justify">Presentación y defensa. Uso de un demostrador in-situ, grabación de un video para verificar el funcionamiento de la aplicación desarrollada, acciones remotas, etc.</p>
     
     
     
@@ -57,4 +57,4 @@ Este proyecto ha sido realizado por:
 
 ## 📄 Licencia 
 
-Este repositorio está bajo la Licencia (GNU General Public License v3.0) - mira el archivo [LICENSE.md](LICENSE.md) para detalles.
+<p align="justify">Este repositorio está bajo la Licencia (GNU General Public License v3.0) - mira el archivo [LICENSE.md](LICENSE.md) para detalles.</p>
