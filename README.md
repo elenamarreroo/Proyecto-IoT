@@ -36,7 +36,6 @@ recopilación de datos, el análisis de resultados y la interactuación con el u
     
 - <p align="justify"> [Presentación](LICENSE.md). Uso de un demostrador in-situ, grabación de un video para verificar el funcionamiento de la aplicación desarrollada, acciones remotas, etc.</p>
     
- 
  ## Referencias
 * [Grove water_sensor](https://www.seeedstudio.com/Grove-Water-Sensor.html) 
 * [Grove temperature](https://www.seeedstudio.com/Grove-Temperature-Sensor.html) 
