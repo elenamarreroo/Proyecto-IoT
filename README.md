@@ -22,13 +22,13 @@ recopilación de datos, el análisis de resultados y la interactuación con el u
 
 ## 🗂 Orden de los documentos
 
-<p align="justify">Cada uno de los documentos necesarios para la realización del proyecto se encuentran en la parte superior del repositorio. En estas encontraremos 5 archivos:</p>
+<p align="justify">Cada uno de los documentos necesarios para la realización del proyecto se encuentran en la parte superior del repositorio. En estas encontraremos 4 archivos:</p>
 
 - <p align="justify">README.md con la información necesaria.</p>
 
-- <p align="justify">proyecto/cuaderno central completo .</p>
+- <p align="justify">notebook_plant_monitoring_system.ipynb, proyecto/cuaderno central completo.</p>
     
-- <p align="justify">Informe que documente adecuadamente el proyecto y sus resultados. Estructura mínima habitual de objetivos, resolución metodología, definición y análisis del proyecto, análisis crítico y representación de resultados obtenidos, documentación y referencias.</p>
+- <p align="justify">Manual Monitor Invernadero Base Shield V2 Con Sensores De Grove.pdf, Informe que documenta adecuadamente el proyecto y sus resultados. Estructura mínima habitual de objetivos, resolución metodología, definición y análisis del proyecto, análisis crítico y representación de resultados obtenidos, documentación y referencias.</p>
     
 - <p align="justify">Presentación y defensa. Uso de un demostrador in-situ, grabación de un video para verificar el funcionamiento de la aplicación desarrollada, acciones remotas, etc.</p>
     
