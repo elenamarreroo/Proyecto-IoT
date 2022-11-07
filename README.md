@@ -35,10 +35,10 @@ recopilación de datos, el análisis de resultados y la interactuación con el u
  
 - Carpeta "fotos" donde podemos encontrar las imagenes utilizadas para la detección de enfermedades.
 
-Además se adjunta también en este README el video explicativo del proyecto comentado anteriormente:
+Además se adjunta también en este README el video explicativo del proyecto comentado anteriormente, en este caso, en una nueva plataforma:
 
-- <p align="justify"> <A HREF="https://youtu.be/J7LJK8ByvNM"> Presentación</A>. Uso de un demostrador in-situ, grabación de un video para verificar el funcionamiento de la aplicación desarrollada, acciones remotas, etc.</p>
-    
+-  <a href="https://youtu.be/J7LJK8ByvNM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elenamarreroo" height="30" width="40" /></a> Presentación. Uso de un demostrador in-situ, grabación de un video para verificar el funcionamiento de la aplicación desarrollada, acciones remotas, etc.</p>
+
  ## 📖 Referencias
 * [Grove water_sensor](https://www.seeedstudio.com/Grove-Water-Sensor.html) 
 * [Grove temperature](https://www.seeedstudio.com/Grove-Temperature-Sensor.html) 
